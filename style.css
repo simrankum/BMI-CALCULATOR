@@ -1,0 +1,38 @@
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://media.istockphoto.com/id/1280587810/photo/healthy-eating-exercising-weight-and-blood-pressure-control.jpg?s=612x612&w=is&k=20&c=GPCXKWLxen13yUItILzLFgRbHEmNnvHCWsG8Qr2ejP8=");
+}
+span{
+    color: red;
+}
+.wrapper{
+    border: 2px solid blueviolet;
+    background: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color:rgb(18, 19, 17);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    padding: 15px;
+    width: 50%;
+    background-image:url(https://news.harvard.edu/wp-content/uploads/2018/04/healthy-habits-1024x683.jpg);
+    border-radius: 5px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+button{
+    color: black;
+    padding: 10px;
+    border: 2px solid blueviolet;
+    background: aquamarine;
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+}
